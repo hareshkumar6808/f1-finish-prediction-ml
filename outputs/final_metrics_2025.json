@@ -1,0 +1,8 @@
+{
+  "test_season": 2025,
+  "training_rows": 2979,
+  "test_rows": 479,
+  "raw_model_mae": 3.25,
+  "ranked_model_mae": 3.436,
+  "grid_baseline_mae": 3.344
+}
