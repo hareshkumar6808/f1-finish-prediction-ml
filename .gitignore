@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+*.joblib
+catboost_info/
+work/
+
+# Downloaded upstream data and FastF1's HTTP cache are intentionally not
+# redistributed. The scripts rebuild these artifacts locally.
+data/**
+!data/.gitkeep
+!data/processed/
+data/processed/**
+!data/processed/.gitkeep
+
+models/**
+!models/.gitkeep
+
