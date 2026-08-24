@@ -1,0 +1,481 @@
+season,round,race_name,driver,constructor,grid,qualifying_gap,predicted_position,finish_position
+2025,1,Australian Grand Prix,albon,williams,6,0.6409999999999911,8,5
+2025,1,Australian Grand Prix,alonso,aston_martin,12,1.191999999999993,12,17
+2025,1,Australian Grand Prix,antonelli,mercedes,16,1.429000000000002,9,4
+2025,1,Australian Grand Prix,bearman,haas,20,1.355000000000004,18,14
+2025,1,Australian Grand Prix,bortoleto,sauber,15,1.4200000000000017,16,16
+2025,1,Australian Grand Prix,doohan,alpine,14,1.218999999999994,15,19
+2025,1,Australian Grand Prix,gasly,alpine,9,0.8840000000000003,10,11
+2025,1,Australian Grand Prix,hadjar,rb,11,1.0789999999999935,13,20
+2025,1,Australian Grand Prix,hamilton,ferrari,8,0.8229999999999933,6,10
+2025,1,Australian Grand Prix,hulkenberg,sauber,17,1.48299999999999,19,7
+2025,1,Australian Grand Prix,lawson,red_bull,18,1.9979999999999905,20,15
+2025,1,Australian Grand Prix,leclerc,ferrari,7,0.6589999999999918,4,8
+2025,1,Australian Grand Prix,max_verstappen,red_bull,3,0.3849999999999909,5,2
+2025,1,Australian Grand Prix,norris,mclaren,1,0.0,1,1
+2025,1,Australian Grand Prix,ocon,haas,19,2.051000000000002,17,13
+2025,1,Australian Grand Prix,piastri,mclaren,2,0.0840000000000031,2,9
+2025,1,Australian Grand Prix,russell,mercedes,4,0.4500000000000028,3,3
+2025,1,Australian Grand Prix,sainz,williams,10,0.8349999999999937,11,18
+2025,1,Australian Grand Prix,stroll,aston_martin,13,1.272999999999996,14,6
+2025,1,Australian Grand Prix,tsunoda,rb,5,0.5739999999999981,7,12
+2025,2,Chinese Grand Prix,albon,williams,10,0.8619999999999948,11,7
+2025,2,Chinese Grand Prix,alonso,aston_martin,13,1.046999999999997,13,17
+2025,2,Chinese Grand Prix,antonelli,mercedes,8,0.4619999999999891,6,6
+2025,2,Chinese Grand Prix,bearman,haas,17,1.3769999999999951,17,8
+2025,2,Chinese Grand Prix,bortoleto,sauber,19,1.5,18,14
+2025,2,Chinese Grand Prix,doohan,alpine,18,1.4509999999999934,20,13
+2025,2,Chinese Grand Prix,gasly,alpine,16,1.350999999999999,16,20
+2025,2,Chinese Grand Prix,hadjar,rb,7,0.4379999999999882,8,11
+2025,2,Chinese Grand Prix,hamilton,ferrari,5,0.2860000000000013,4,19
+2025,2,Chinese Grand Prix,hulkenberg,sauber,12,0.9909999999999995,12,15
+2025,2,Chinese Grand Prix,lawson,red_bull,20,1.5330000000000013,19,12
+2025,2,Chinese Grand Prix,leclerc,ferrari,6,0.3799999999999954,5,18
+2025,2,Chinese Grand Prix,max_verstappen,red_bull,4,0.1759999999999877,7,4
+2025,2,Chinese Grand Prix,norris,mclaren,3,0.1460000000000008,3,2
+2025,2,Chinese Grand Prix,ocon,haas,11,0.9839999999999948,10,5
+2025,2,Chinese Grand Prix,piastri,mclaren,1,0.0,1,1
+2025,2,Chinese Grand Prix,russell,mercedes,2,0.0819999999999936,2,3
+2025,2,Chinese Grand Prix,sainz,williams,15,0.9869999999999948,14,10
+2025,2,Chinese Grand Prix,stroll,aston_martin,14,1.1319999999999908,15,9
+2025,2,Chinese Grand Prix,tsunoda,rb,9,0.5969999999999942,9,16
+2025,3,Japanese Grand Prix,albon,williams,9,0.6319999999999908,10,9
+2025,3,Japanese Grand Prix,alonso,aston_martin,12,0.9140000000000016,13,11
+2025,3,Japanese Grand Prix,antonelli,mercedes,6,0.5720000000000027,5,6
+2025,3,Japanese Grand Prix,bearman,haas,10,0.7279999999999944,11,10
+2025,3,Japanese Grand Prix,bortoleto,sauber,17,1.6389999999999958,18,19
+2025,3,Japanese Grand Prix,doohan,alpine,19,1.8939999999999912,20,15
+2025,3,Japanese Grand Prix,gasly,alpine,11,0.8389999999999986,15,13
+2025,3,Japanese Grand Prix,hadjar,rb,7,0.5859999999999985,8,8
+2025,3,Japanese Grand Prix,hamilton,ferrari,8,0.6269999999999953,9,7
+2025,3,Japanese Grand Prix,hulkenberg,sauber,16,1.586999999999989,19,16
+2025,3,Japanese Grand Prix,lawson,rb,13,0.9230000000000018,14,17
+2025,3,Japanese Grand Prix,leclerc,ferrari,4,0.3160000000000025,6,4
+2025,3,Japanese Grand Prix,max_verstappen,red_bull,1,0.0,4,1
+2025,3,Japanese Grand Prix,norris,mclaren,2,0.0120000000000004,1,2
+2025,3,Japanese Grand Prix,ocon,haas,18,1.712999999999994,16,18
+2025,3,Japanese Grand Prix,piastri,mclaren,3,0.0439999999999969,2,3
+2025,3,Japanese Grand Prix,russell,mercedes,5,0.3349999999999937,3,5
+2025,3,Japanese Grand Prix,sainz,williams,15,0.8529999999999944,12,14
+2025,3,Japanese Grand Prix,stroll,aston_martin,20,2.2879999999999967,17,20
+2025,3,Japanese Grand Prix,tsunoda,red_bull,14,0.9839999999999948,7,12
+2025,4,Bahrain Grand Prix,albon,williams,15,2.1990000000000123,15,12
+2025,4,Bahrain Grand Prix,alonso,aston_martin,13,1.7930000000000064,13,15
+2025,4,Bahrain Grand Prix,antonelli,mercedes,5,0.3719999999999999,4,11
+2025,4,Bahrain Grand Prix,bearman,haas,20,2.5320000000000107,17,10
+2025,4,Bahrain Grand Prix,bortoleto,sauber,18,2.345000000000013,18,18
+2025,4,Bahrain Grand Prix,doohan,alpine,11,1.4040000000000106,12,14
+2025,4,Bahrain Grand Prix,gasly,alpine,4,0.375,7,7
+2025,4,Bahrain Grand Prix,hadjar,rb,12,1.4300000000000068,11,13
+2025,4,Bahrain Grand Prix,hamilton,ferrari,9,0.9310000000000116,9,5
+2025,4,Bahrain Grand Prix,hulkenberg,sauber,16,1.852000000000004,20,20
+2025,4,Bahrain Grand Prix,lawson,rb,17,2.3240000000000123,16,16
+2025,4,Bahrain Grand Prix,leclerc,ferrari,2,0.3340000000000032,5,4
+2025,4,Bahrain Grand Prix,max_verstappen,red_bull,7,0.5820000000000078,3,6
+2025,4,Bahrain Grand Prix,norris,mclaren,6,0.4260000000000019,6,3
+2025,4,Bahrain Grand Prix,ocon,haas,14,1.753,14,8
+2025,4,Bahrain Grand Prix,piastri,mclaren,1,0.0,1,1
+2025,4,Bahrain Grand Prix,russell,mercedes,3,0.1680000000000063,2,2
+2025,4,Bahrain Grand Prix,sainz,williams,8,0.8390000000000128,10,19
+2025,4,Bahrain Grand Prix,stroll,aston_martin,19,2.442000000000008,19,17
+2025,4,Bahrain Grand Prix,tsunoda,red_bull,10,1.3870000000000005,8,9
+2025,5,Saudi Arabian Grand Prix,albon,williams,11,0.8149999999999977,11,9
+2025,5,Saudi Arabian Grand Prix,alonso,aston_martin,13,1.0090000000000003,14,11
+2025,5,Saudi Arabian Grand Prix,antonelli,mercedes,5,0.5040000000000049,5,6
+2025,5,Saudi Arabian Grand Prix,bearman,haas,15,1.2420000000000044,13,13
+2025,5,Saudi Arabian Grand Prix,bortoleto,sauber,20,2.1680000000000064,20,18
+2025,5,Saudi Arabian Grand Prix,doohan,alpine,17,1.4450000000000074,17,17
+2025,5,Saudi Arabian Grand Prix,gasly,alpine,9,0.7310000000000088,10,20
+2025,5,Saudi Arabian Grand Prix,hadjar,rb,14,1.1240000000000094,15,10
+2025,5,Saudi Arabian Grand Prix,hamilton,ferrari,7,0.8080000000000069,8,7
+2025,5,Saudi Arabian Grand Prix,hulkenberg,sauber,18,1.4879999999999995,19,15
+2025,5,Saudi Arabian Grand Prix,lawson,rb,12,0.8970000000000056,12,12
+2025,5,Saudi Arabian Grand Prix,leclerc,ferrari,4,0.3760000000000048,4,3
+2025,5,Saudi Arabian Grand Prix,max_verstappen,red_bull,1,0.0,1,2
+2025,5,Saudi Arabian Grand Prix,norris,mclaren,10,0.1869999999999976,6,4
+2025,5,Saudi Arabian Grand Prix,ocon,haas,19,1.7980000000000018,16,14
+2025,5,Saudi Arabian Grand Prix,piastri,mclaren,2,0.0100000000000051,2,1
+2025,5,Saudi Arabian Grand Prix,russell,mercedes,3,0.1129999999999995,3,5
+2025,5,Saudi Arabian Grand Prix,sainz,williams,6,0.730000000000004,9,8
+2025,5,Saudi Arabian Grand Prix,stroll,aston_martin,16,1.350999999999999,18,16
+2025,5,Saudi Arabian Grand Prix,tsunoda,red_bull,8,0.695999999999998,7,19
+2025,6,Miami Grand Prix,albon,williams,7,0.4780000000000086,10,5
+2025,6,Miami Grand Prix,alonso,aston_martin,17,1.4000000000000057,18,15
+2025,6,Miami Grand Prix,antonelli,mercedes,3,0.0670000000000072,2,6
+2025,6,Miami Grand Prix,bearman,haas,19,1.7950000000000017,16,19
+2025,6,Miami Grand Prix,bortoleto,sauber,13,0.9470000000000028,15,18
+2025,6,Miami Grand Prix,doohan,alpine,14,0.9820000000000136,14,20
+2025,6,Miami Grand Prix,gasly,alpine,20,1.5060000000000002,19,13
+2025,6,Miami Grand Prix,hadjar,rb,11,0.7830000000000013,12,11
+2025,6,Miami Grand Prix,hamilton,ferrari,12,0.8020000000000067,8,8
+2025,6,Miami Grand Prix,hulkenberg,sauber,16,1.2690000000000057,20,14
+2025,6,Miami Grand Prix,lawson,rb,15,1.159000000000006,13,17
+2025,6,Miami Grand Prix,leclerc,ferrari,8,0.5500000000000114,6,7
+2025,6,Miami Grand Prix,max_verstappen,red_bull,1,0.0,5,4
+2025,6,Miami Grand Prix,norris,mclaren,2,0.0650000000000119,1,2
+2025,6,Miami Grand Prix,ocon,haas,9,0.6200000000000045,11,12
+2025,6,Miami Grand Prix,piastri,mclaren,4,0.0650000000000119,4,1
+2025,6,Miami Grand Prix,russell,mercedes,5,0.1810000000000116,3,3
+2025,6,Miami Grand Prix,sainz,williams,6,0.3650000000000091,7,9
+2025,6,Miami Grand Prix,stroll,aston_martin,18,1.6260000000000048,17,16
+2025,6,Miami Grand Prix,tsunoda,red_bull,10,0.7390000000000043,9,10
+2025,7,Emilia Romagna Grand Prix,albon,williams,7,0.8029999999999973,10,5
+2025,7,Emilia Romagna Grand Prix,alonso,aston_martin,5,0.7609999999999957,8,11
+2025,7,Emilia Romagna Grand Prix,antonelli,mercedes,13,1.102000000000004,9,19
+2025,7,Emilia Romagna Grand Prix,bearman,haas,19,1.4069999999999965,16,17
+2025,7,Emilia Romagna Grand Prix,bortoleto,sauber,14,1.5900000000000034,18,18
+2025,7,Emilia Romagna Grand Prix,colapinto,alpine,16,1.5859999999999983,17,16
+2025,7,Emilia Romagna Grand Prix,gasly,alpine,10,0.8349999999999937,14,13
+2025,7,Emilia Romagna Grand Prix,hadjar,rb,9,0.8400000000000034,12,9
+2025,7,Emilia Romagna Grand Prix,hamilton,ferrari,12,1.0949999999999989,7,4
+2025,7,Emilia Romagna Grand Prix,hulkenberg,sauber,17,1.847999999999999,20,12
+2025,7,Emilia Romagna Grand Prix,lawson,rb,15,1.7090000000000032,15,14
+2025,7,Emilia Romagna Grand Prix,leclerc,ferrari,11,0.9339999999999976,6,6
+2025,7,Emilia Romagna Grand Prix,max_verstappen,red_bull,2,0.0339999999999918,3,1
+2025,7,Emilia Romagna Grand Prix,norris,mclaren,4,0.2920000000000016,4,2
+2025,7,Emilia Romagna Grand Prix,ocon,haas,18,1.9429999999999976,19,20
+2025,7,Emilia Romagna Grand Prix,piastri,mclaren,1,0.0,1,3
+2025,7,Emilia Romagna Grand Prix,russell,mercedes,3,0.1370000000000004,2,7
+2025,7,Emilia Romagna Grand Prix,sainz,williams,6,0.5279999999999916,5,8
+2025,7,Emilia Romagna Grand Prix,stroll,aston_martin,8,0.8269999999999982,13,15
+2025,7,Emilia Romagna Grand Prix,tsunoda,red_bull,20,1.355000000000004,11,10
+2025,8,Monaco Grand Prix,albon,williams,10,0.7780000000000058,6,9
+2025,8,Monaco Grand Prix,alonso,aston_martin,6,0.9700000000000132,9,19
+2025,8,Monaco Grand Prix,antonelli,mercedes,15,1.926000000000002,12,18
+2025,8,Monaco Grand Prix,bearman,haas,20,2.0250000000000057,20,12
+2025,8,Monaco Grand Prix,bortoleto,sauber,16,1.9480000000000075,16,14
+2025,8,Monaco Grand Prix,colapinto,alpine,18,2.6430000000000007,19,13
+2025,8,Monaco Grand Prix,gasly,alpine,17,2.0400000000000063,18,20
+2025,8,Monaco Grand Prix,hadjar,rb,5,0.9690000000000084,7,6
+2025,8,Monaco Grand Prix,hamilton,ferrari,7,0.4280000000000115,4,5
+2025,8,Monaco Grand Prix,hulkenberg,sauber,13,1.64200000000001,15,16
+2025,8,Monaco Grand Prix,lawson,rb,9,1.1750000000000114,11,8
+2025,8,Monaco Grand Prix,leclerc,ferrari,2,0.1090000000000088,2,2
+2025,8,Monaco Grand Prix,max_verstappen,red_bull,4,0.7150000000000034,5,4
+2025,8,Monaco Grand Prix,norris,mclaren,1,0.0,1,1
+2025,8,Monaco Grand Prix,ocon,haas,8,0.9879999999999995,13,7
+2025,8,Monaco Grand Prix,piastri,mclaren,3,0.1750000000000113,3,3
+2025,8,Monaco Grand Prix,russell,mercedes,14,1.5530000000000117,14,11
+2025,8,Monaco Grand Prix,sainz,williams,11,1.4080000000000013,10,10
+2025,8,Monaco Grand Prix,stroll,aston_martin,19,2.609000000000009,17,15
+2025,8,Monaco Grand Prix,tsunoda,red_bull,12,1.4610000000000127,8,17
+2025,9,Spanish Grand Prix,albon,williams,11,1.0949999999999989,9,19
+2025,9,Spanish Grand Prix,alonso,aston_martin,10,0.7379999999999995,13,9
+2025,9,Spanish Grand Prix,antonelli,mercedes,6,0.5649999999999977,7,18
+2025,9,Spanish Grand Prix,bearman,haas,14,1.5279999999999916,15,17
+2025,9,Spanish Grand Prix,bortoleto,sauber,12,1.2099999999999935,14,12
+2025,9,Spanish Grand Prix,colapinto,alpine,18,1.7879999999999967,19,15
+2025,9,Spanish Grand Prix,gasly,alpine,8,0.6529999999999916,11,8
+2025,9,Spanish Grand Prix,hadjar,rb,9,0.7059999999999889,8,7
+2025,9,Spanish Grand Prix,hamilton,ferrari,5,0.4989999999999952,4,6
+2025,9,Spanish Grand Prix,hulkenberg,sauber,15,1.6439999999999912,16,5
+2025,9,Spanish Grand Prix,lawson,rb,13,1.2169999999999987,10,11
+2025,9,Spanish Grand Prix,leclerc,ferrari,7,0.5849999999999937,5,3
+2025,9,Spanish Grand Prix,max_verstappen,red_bull,3,0.3019999999999925,3,10
+2025,9,Spanish Grand Prix,norris,mclaren,2,0.2089999999999889,2,2
+2025,9,Spanish Grand Prix,ocon,haas,16,1.654999999999987,18,16
+2025,9,Spanish Grand Prix,piastri,mclaren,1,0.0,1,1
+2025,9,Spanish Grand Prix,russell,mercedes,4,0.3019999999999925,6,4
+2025,9,Spanish Grand Prix,sainz,williams,17,1.6569999999999965,17,14
+2025,9,Spanish Grand Prix,tsunoda,red_bull,19,1.8389999999999984,12,13
+2025,10,Canadian Grand Prix,albon,williams,9,0.992999999999995,9,20
+2025,10,Canadian Grand Prix,alonso,aston_martin,6,0.6869999999999976,8,7
+2025,10,Canadian Grand Prix,antonelli,mercedes,4,0.4920000000000044,7,3
+2025,10,Canadian Grand Prix,bearman,haas,13,1.4069999999999965,16,11
+2025,10,Canadian Grand Prix,bortoleto,sauber,15,1.4860000000000042,15,14
+2025,10,Canadian Grand Prix,colapinto,alpine,10,1.242999999999995,12,13
+2025,10,Canadian Grand Prix,gasly,alpine,20,1.768000000000001,20,15
+2025,10,Canadian Grand Prix,hadjar,rb,12,0.9680000000000036,10,16
+2025,10,Canadian Grand Prix,hamilton,ferrari,5,0.6269999999999953,4,6
+2025,10,Canadian Grand Prix,hulkenberg,sauber,11,1.284000000000006,11,8
+2025,10,Canadian Grand Prix,lawson,rb,19,1.6260000000000048,14,19
+2025,10,Canadian Grand Prix,leclerc,ferrari,8,0.7270000000000039,6,5
+2025,10,Canadian Grand Prix,max_verstappen,red_bull,2,0.1599999999999966,3,2
+2025,10,Canadian Grand Prix,norris,mclaren,7,0.7000000000000028,5,18
+2025,10,Canadian Grand Prix,ocon,haas,14,1.4789999999999992,17,9
+2025,10,Canadian Grand Prix,piastri,mclaren,3,0.2210000000000036,1,4
+2025,10,Canadian Grand Prix,russell,mercedes,1,0.0,2,1
+2025,10,Canadian Grand Prix,sainz,williams,16,1.4989999999999952,19,10
+2025,10,Canadian Grand Prix,stroll,aston_martin,17,1.617999999999995,18,17
+2025,10,Canadian Grand Prix,tsunoda,red_bull,18,1.203000000000003,13,12
+2025,11,Austrian Grand Prix,albon,williams,12,1.172000000000004,14,17
+2025,11,Austrian Grand Prix,alonso,aston_martin,11,1.1570000000000036,11,7
+2025,11,Austrian Grand Prix,antonelli,mercedes,9,1.0810000000000102,6,19
+2025,11,Austrian Grand Prix,bearman,haas,15,1.247000000000007,15,11
+2025,11,Austrian Grand Prix,bortoleto,sauber,8,0.8750000000000071,9,8
+2025,11,Austrian Grand Prix,colapinto,alpine,14,1.3070000000000093,17,15
+2025,11,Austrian Grand Prix,gasly,alpine,10,0.8750000000000071,10,13
+2025,11,Austrian Grand Prix,hadjar,rb,13,1.092000000000006,12,12
+2025,11,Austrian Grand Prix,hamilton,ferrari,4,0.6109999999999971,4,4
+2025,11,Austrian Grand Prix,hulkenberg,sauber,20,1.634999999999998,13,9
+2025,11,Austrian Grand Prix,lawson,rb,6,0.9550000000000054,7,6
+2025,11,Austrian Grand Prix,leclerc,ferrari,2,0.5210000000000079,2,3
+2025,11,Austrian Grand Prix,max_verstappen,red_bull,7,0.865000000000002,8,18
+2025,11,Austrian Grand Prix,norris,mclaren,1,0.0,1,1
+2025,11,Austrian Grand Prix,ocon,haas,17,1.3930000000000078,18,10
+2025,11,Austrian Grand Prix,piastri,mclaren,3,0.5830000000000055,3,2
+2025,11,Austrian Grand Prix,russell,mercedes,5,0.7920000000000087,5,5
+2025,11,Austrian Grand Prix,sainz,williams,19,1.610999999999997,20,20
+2025,11,Austrian Grand Prix,stroll,aston_martin,16,1.357999999999997,16,14
+2025,11,Austrian Grand Prix,tsunoda,red_bull,18,1.3980000000000032,19,16
+2025,12,British Grand Prix,albon,williams,13,0.997,16,8
+2025,12,British Grand Prix,alonso,aston_martin,7,0.7010000000000076,8,9
+2025,12,British Grand Prix,antonelli,mercedes,10,0.4819999999999993,7,16
+2025,12,British Grand Prix,bearman,haas,18,0.5790000000000077,15,11
+2025,12,British Grand Prix,bortoleto,sauber,16,1.554000000000002,9,18
+2025,12,British Grand Prix,colapinto,alpine,20,2.1680000000000064,19,20
+2025,12,British Grand Prix,gasly,alpine,8,0.8190000000000026,10,6
+2025,12,British Grand Prix,hadjar,rb,12,0.9720000000000084,13,17
+2025,12,British Grand Prix,hamilton,ferrari,5,0.1920000000000072,4,4
+2025,12,British Grand Prix,hulkenberg,sauber,19,1.6820000000000022,18,3
+2025,12,British Grand Prix,lawson,rb,15,1.5480000000000018,17,19
+2025,12,British Grand Prix,leclerc,ferrari,6,0.2289999999999992,3,14
+2025,12,British Grand Prix,max_verstappen,red_bull,1,0.0,6,5
+2025,12,British Grand Prix,norris,mclaren,3,0.1180000000000092,2,1
+2025,12,British Grand Prix,ocon,haas,14,1.058000000000007,14,13
+2025,12,British Grand Prix,piastri,mclaren,2,0.1030000000000086,1,2
+2025,12,British Grand Prix,russell,mercedes,4,0.1370000000000004,5,10
+2025,12,British Grand Prix,sainz,williams,9,0.8539999999999992,12,12
+2025,12,British Grand Prix,stroll,aston_martin,17,1.612000000000009,20,7
+2025,12,British Grand Prix,tsunoda,red_bull,11,0.9339999999999976,11,15
+2025,13,Belgian Grand Prix,albon,williams,5,0.6389999999999958,5,6
+2025,13,Belgian Grand Prix,alonso,aston_martin,20,1.8230000000000075,20,17
+2025,13,Belgian Grand Prix,antonelli,mercedes,19,1.5769999999999982,17,16
+2025,13,Belgian Grand Prix,bearman,haas,12,1.0550000000000068,14,11
+2025,13,Belgian Grand Prix,bortoleto,sauber,10,0.7740000000000009,9,9
+2025,13,Belgian Grand Prix,colapinto,alpine,15,1.460000000000008,19,19
+2025,13,Belgian Grand Prix,gasly,alpine,13,1.070999999999998,15,10
+2025,13,Belgian Grand Prix,hadjar,rb,8,0.7190000000000083,10,20
+2025,13,Belgian Grand Prix,hamilton,ferrari,18,1.102000000000004,8,7
+2025,13,Belgian Grand Prix,hulkenberg,sauber,14,1.144999999999996,11,12
+2025,13,Belgian Grand Prix,lawson,rb,9,0.7349999999999994,13,8
+2025,13,Belgian Grand Prix,leclerc,ferrari,3,0.338000000000008,3,3
+2025,13,Belgian Grand Prix,max_verstappen,red_bull,4,0.3410000000000082,4,4
+2025,13,Belgian Grand Prix,norris,mclaren,1,0.0,1,2
+2025,13,Belgian Grand Prix,ocon,haas,11,0.963000000000008,12,15
+2025,13,Belgian Grand Prix,piastri,mclaren,2,0.0640000000000071,2,1
+2025,13,Belgian Grand Prix,russell,mercedes,6,0.6920000000000073,6,5
+2025,13,Belgian Grand Prix,sainz,williams,17,1.1290000000000049,18,18
+2025,13,Belgian Grand Prix,stroll,aston_martin,16,1.9399999999999973,16,14
+2025,13,Belgian Grand Prix,tsunoda,red_bull,7,0.6830000000000069,7,13
+2025,14,Hungarian Grand Prix,albon,williams,19,1.3329999999999984,18,15
+2025,14,Hungarian Grand Prix,alonso,aston_martin,5,0.3910000000000053,6,5
+2025,14,Hungarian Grand Prix,antonelli,mercedes,15,0.8029999999999973,16,10
+2025,14,Hungarian Grand Prix,bearman,haas,11,0.804000000000002,11,20
+2025,14,Hungarian Grand Prix,bortoleto,sauber,7,0.695999999999998,8,6
+2025,14,Hungarian Grand Prix,colapinto,alpine,14,0.9849999999999994,17,18
+2025,14,Hungarian Grand Prix,gasly,alpine,16,1.0759999999999934,20,19
+2025,14,Hungarian Grand Prix,hadjar,rb,10,0.5789999999999935,10,11
+2025,14,Hungarian Grand Prix,hamilton,ferrari,12,0.8119999999999976,7,12
+2025,14,Hungarian Grand Prix,hulkenberg,sauber,18,1.1910000000000025,15,13
+2025,14,Hungarian Grand Prix,lawson,rb,9,0.7399999999999949,13,8
+2025,14,Hungarian Grand Prix,leclerc,ferrari,1,0.4819999999999993,3,4
+2025,14,Hungarian Grand Prix,max_verstappen,red_bull,8,0.6569999999999965,9,9
+2025,14,Hungarian Grand Prix,norris,mclaren,3,0.0,2,1
+2025,14,Hungarian Grand Prix,ocon,haas,17,1.1329999999999956,19,16
+2025,14,Hungarian Grand Prix,piastri,mclaren,2,0.0510000000000019,1,2
+2025,14,Hungarian Grand Prix,russell,mercedes,4,0.3109999999999928,4,3
+2025,14,Hungarian Grand Prix,sainz,williams,13,0.7620000000000005,14,14
+2025,14,Hungarian Grand Prix,stroll,aston_martin,6,0.2390000000000043,5,7
+2025,14,Hungarian Grand Prix,tsunoda,red_bull,20,1.0090000000000003,12,17
+2025,15,Dutch Grand Prix,albon,williams,15,0.9899999999999948,14,5
+2025,15,Dutch Grand Prix,alonso,aston_martin,10,0.7039999999999935,11,8
+2025,15,Dutch Grand Prix,antonelli,mercedes,11,0.8309999999999889,9,16
+2025,15,Dutch Grand Prix,bearman,haas,20,1.5999999999999943,20,6
+2025,15,Dutch Grand Prix,bortoleto,sauber,13,0.9599999999999936,12,15
+2025,15,Dutch Grand Prix,colapinto,alpine,16,1.441999999999993,19,11
+2025,15,Dutch Grand Prix,gasly,alpine,14,0.9749999999999944,15,17
+2025,15,Dutch Grand Prix,hadjar,rb,4,0.5459999999999923,5,3
+2025,15,Dutch Grand Prix,hamilton,ferrari,7,0.5989999999999895,3,20
+2025,15,Dutch Grand Prix,hulkenberg,sauber,17,1.532999999999987,17,14
+2025,15,Dutch Grand Prix,lawson,rb,8,0.7209999999999894,8,12
+2025,15,Dutch Grand Prix,leclerc,ferrari,6,0.6419999999999959,6,19
+2025,15,Dutch Grand Prix,max_verstappen,red_bull,3,0.262999999999991,4,2
+2025,15,Dutch Grand Prix,norris,mclaren,2,0.0120000000000004,2,18
+2025,15,Dutch Grand Prix,ocon,haas,18,1.5349999999999966,18,10
+2025,15,Dutch Grand Prix,piastri,mclaren,1,0.0,1,1
+2025,15,Dutch Grand Prix,russell,mercedes,5,0.5929999999999893,7,4
+2025,15,Dutch Grand Prix,sainz,williams,9,0.8099999999999881,10,13
+2025,15,Dutch Grand Prix,stroll,aston_martin,19,23.384,16,7
+2025,15,Dutch Grand Prix,tsunoda,red_bull,12,0.9599999999999936,13,9
+2025,16,Italian Grand Prix,albon,williams,14,0.7909999999999968,17,7
+2025,16,Italian Grand Prix,alonso,aston_martin,8,0.5699999999999932,8,19
+2025,16,Italian Grand Prix,antonelli,mercedes,6,0.4080000000000012,4,9
+2025,16,Italian Grand Prix,bearman,haas,11,0.6539999999999964,14,12
+2025,16,Italian Grand Prix,bortoleto,sauber,7,0.5309999999999917,9,8
+2025,16,Italian Grand Prix,colapinto,alpine,17,1.2000000000000028,19,17
+2025,16,Italian Grand Prix,gasly,alpine,20,1.3109999999999928,20,16
+2025,16,Italian Grand Prix,hadjar,rb,19,1.125,11,10
+2025,16,Italian Grand Prix,hamilton,ferrari,10,0.3319999999999936,10,6
+2025,16,Italian Grand Prix,hulkenberg,sauber,12,0.7060000000000031,12,20
+2025,16,Italian Grand Prix,lawson,rb,18,1.4869999999999948,13,14
+2025,16,Italian Grand Prix,leclerc,ferrari,4,0.2150000000000034,6,4
+2025,16,Italian Grand Prix,max_verstappen,red_bull,1,0.0,3,1
+2025,16,Italian Grand Prix,norris,mclaren,2,0.0769999999999981,1,2
+2025,16,Italian Grand Prix,ocon,haas,15,0.914999999999992,18,15
+2025,16,Italian Grand Prix,piastri,mclaren,3,0.1899999999999977,2,3
+2025,16,Italian Grand Prix,russell,mercedes,5,0.3649999999999949,5,5
+2025,16,Italian Grand Prix,sainz,williams,13,0.7360000000000042,16,11
+2025,16,Italian Grand Prix,stroll,aston_martin,16,1.1559999999999917,15,18
+2025,16,Italian Grand Prix,tsunoda,red_bull,9,0.6410000000000053,7,13
+2025,17,Azerbaijan Grand Prix,albon,williams,19,2.6610000000000014,16,13
+2025,17,Azerbaijan Grand Prix,alonso,aston_martin,11,0.7399999999999949,11,15
+2025,17,Azerbaijan Grand Prix,antonelli,mercedes,4,0.3469999999999942,3,4
+2025,17,Azerbaijan Grand Prix,bearman,haas,15,1.5489999999999924,15,12
+2025,17,Azerbaijan Grand Prix,bortoleto,sauber,13,1.1599999999999966,14,11
+2025,17,Azerbaijan Grand Prix,colapinto,alpine,16,1.661999999999992,19,19
+2025,17,Azerbaijan Grand Prix,gasly,alpine,18,2.021999999999992,20,18
+2025,17,Azerbaijan Grand Prix,hadjar,rb,8,0.5300000000000011,9,10
+2025,17,Azerbaijan Grand Prix,hamilton,ferrari,12,0.7039999999999935,12,8
+2025,17,Azerbaijan Grand Prix,hulkenberg,sauber,17,1.7989999999999924,18,16
+2025,17,Azerbaijan Grand Prix,lawson,rb,3,0.4200000000000017,8,5
+2025,17,Azerbaijan Grand Prix,leclerc,ferrari,10,0.340999999999994,10,9
+2025,17,Azerbaijan Grand Prix,max_verstappen,red_bull,1,0.0,1,1
+2025,17,Azerbaijan Grand Prix,norris,mclaren,7,0.2049999999999983,2,7
+2025,17,Azerbaijan Grand Prix,ocon,haas,20,1.8870000000000005,17,14
+2025,17,Azerbaijan Grand Prix,piastri,mclaren,9,0.296999999999997,5,20
+2025,17,Azerbaijan Grand Prix,russell,mercedes,5,0.3379999999999938,4,2
+2025,17,Azerbaijan Grand Prix,sainz,williams,2,0.4779999999999944,7,3
+2025,17,Azerbaijan Grand Prix,stroll,aston_martin,14,0.9839999999999948,13,17
+2025,17,Azerbaijan Grand Prix,tsunoda,red_bull,6,0.6709999999999923,6,6
+2025,18,Singapore Grand Prix,albon,williams,20,1.043999999999997,12,14
+2025,18,Singapore Grand Prix,alonso,aston_martin,10,0.796999999999997,14,7
+2025,18,Singapore Grand Prix,antonelli,mercedes,4,0.3790000000000049,4,5
+2025,18,Singapore Grand Prix,bearman,haas,9,0.7099999999999937,10,9
+2025,18,Singapore Grand Prix,bortoleto,sauber,14,1.661999999999992,16,17
+2025,18,Singapore Grand Prix,colapinto,alpine,16,1.823999999999998,19,16
+2025,18,Singapore Grand Prix,gasly,alpine,19,2.1029999999999944,20,19
+2025,18,Singapore Grand Prix,hadjar,rb,8,0.6880000000000024,9,11
+2025,18,Singapore Grand Prix,hamilton,ferrari,6,0.5300000000000011,7,8
+2025,18,Singapore Grand Prix,hulkenberg,sauber,11,0.983000000000004,15,20
+2025,18,Singapore Grand Prix,lawson,rb,12,1.161999999999992,11,15
+2025,18,Singapore Grand Prix,leclerc,ferrari,7,0.6260000000000048,6,6
+2025,18,Singapore Grand Prix,max_verstappen,red_bull,2,0.1820000000000021,2,2
+2025,18,Singapore Grand Prix,norris,mclaren,5,0.4279999999999972,5,3
+2025,18,Singapore Grand Prix,ocon,haas,17,1.831000000000003,17,18
+2025,18,Singapore Grand Prix,piastri,mclaren,3,0.3659999999999996,3,4
+2025,18,Singapore Grand Prix,russell,mercedes,1,0.0,1,1
+2025,18,Singapore Grand Prix,sainz,williams,18,1.0769999999999982,13,10
+2025,18,Singapore Grand Prix,stroll,aston_martin,15,1.7909999999999968,18,13
+2025,18,Singapore Grand Prix,tsunoda,red_bull,13,1.1949999999999932,8,12
+2025,19,United States Grand Prix,albon,williams,18,1.1599999999999966,14,14
+2025,19,United States Grand Prix,alonso,aston_martin,10,0.6499999999999915,11,10
+2025,19,United States Grand Prix,antonelli,mercedes,7,0.5339999999999918,7,13
+2025,19,United States Grand Prix,bearman,haas,8,0.6289999999999907,10,9
+2025,19,United States Grand Prix,bortoleto,sauber,16,1.6149999999999949,20,18
+2025,19,United States Grand Prix,colapinto,alpine,15,1.5289999999999964,19,17
+2025,19,United States Grand Prix,gasly,alpine,14,1.0889999999999986,18,19
+2025,19,United States Grand Prix,hadjar,rb,20,1.355000000000004,16,16
+2025,19,United States Grand Prix,hamilton,ferrari,5,0.402000000000001,5,4
+2025,19,United States Grand Prix,hulkenberg,sauber,11,0.8239999999999981,13,8
+2025,19,United States Grand Prix,lawson,rb,12,0.8499999999999943,12,11
+2025,19,United States Grand Prix,leclerc,ferrari,3,0.296999999999997,2,3
+2025,19,United States Grand Prix,max_verstappen,red_bull,1,0.0,1,1
+2025,19,United States Grand Prix,norris,mclaren,2,0.2909999999999968,3,2
+2025,19,United States Grand Prix,ocon,haas,17,1.6259999999999906,17,15
+2025,19,United States Grand Prix,piastri,mclaren,6,0.5739999999999981,6,5
+2025,19,United States Grand Prix,russell,mercedes,4,0.3159999999999883,4,6
+2025,19,United States Grand Prix,sainz,williams,9,0.6139999999999901,9,20
+2025,19,United States Grand Prix,stroll,aston_martin,19,1.367999999999995,15,12
+2025,19,United States Grand Prix,tsunoda,red_bull,13,0.9559999999999887,8,7
+2025,20,Mexico City Grand Prix,albon,williams,17,1.9039999999999964,17,12
+2025,20,Mexico City Grand Prix,alonso,aston_martin,14,1.516999999999996,13,18
+2025,20,Mexico City Grand Prix,antonelli,mercedes,6,0.5319999999999965,6,6
+2025,20,Mexico City Grand Prix,bearman,haas,9,0.8739999999999952,10,4
+2025,20,Mexico City Grand Prix,bortoleto,sauber,16,1.826000000000008,18,10
+2025,20,Mexico City Grand Prix,colapinto,alpine,20,2.084000000000003,20,16
+2025,20,Mexico City Grand Prix,gasly,alpine,18,1.960000000000008,19,15
+2025,20,Mexico City Grand Prix,hadjar,rb,8,0.6659999999999968,9,13
+2025,20,Mexico City Grand Prix,hamilton,ferrari,3,0.3520000000000038,3,8
+2025,20,Mexico City Grand Prix,hulkenberg,sauber,13,1.4300000000000068,14,19
+2025,20,Mexico City Grand Prix,lawson,rb,15,1.375,15,20
+2025,20,Mexico City Grand Prix,leclerc,ferrari,2,0.2620000000000004,1,2
+2025,20,Mexico City Grand Prix,max_verstappen,red_bull,5,0.4839999999999946,5,3
+2025,20,Mexico City Grand Prix,norris,mclaren,1,0.0,2,1
+2025,20,Mexico City Grand Prix,ocon,haas,11,1.2510000000000048,11,9
+2025,20,Mexico City Grand Prix,piastri,mclaren,7,0.5880000000000081,7,5
+2025,20,Mexico City Grand Prix,russell,mercedes,4,0.4480000000000075,4,7
+2025,20,Mexico City Grand Prix,sainz,williams,12,0.5859999999999985,12,17
+2025,20,Mexico City Grand Prix,stroll,aston_martin,19,2.019999999999996,16,14
+2025,20,Mexico City Grand Prix,tsunoda,red_bull,10,1.230000000000004,8,11
+2025,21,São Paulo Grand Prix,albon,williams,12,0.5420000000000016,16,11
+2025,21,São Paulo Grand Prix,alonso,aston_martin,11,0.4900000000000091,14,14
+2025,21,São Paulo Grand Prix,antonelli,mercedes,2,0.1740000000000066,2,2
+2025,21,São Paulo Grand Prix,bearman,haas,8,0.2439999999999997,9,6
+2025,21,São Paulo Grand Prix,bortoleto,sauber,18,1.355000000000004,19,20
+2025,21,São Paulo Grand Prix,colapinto,alpine,16,1.121000000000009,20,15
+2025,21,São Paulo Grand Prix,gasly,alpine,9,0.3460000000000036,13,10
+2025,21,São Paulo Grand Prix,hadjar,rb,5,0.4200000000000017,7,8
+2025,21,São Paulo Grand Prix,hamilton,ferrari,13,0.5050000000000097,6,18
+2025,21,São Paulo Grand Prix,hulkenberg,sauber,10,0.4740000000000037,15,9
+2025,21,São Paulo Grand Prix,lawson,rb,7,0.4390000000000071,10,7
+2025,21,São Paulo Grand Prix,leclerc,ferrari,3,0.2900000000000062,3,19
+2025,21,São Paulo Grand Prix,max_verstappen,red_bull,19,0.8920000000000101,8,3
+2025,21,São Paulo Grand Prix,norris,mclaren,1,0.0,1,1
+2025,21,São Paulo Grand Prix,ocon,haas,20,0.9270000000000068,12,12
+2025,21,São Paulo Grand Prix,piastri,mclaren,4,0.323999999999998,4,5
+2025,21,São Paulo Grand Prix,russell,mercedes,6,0.3689999999999998,5,4
+2025,21,São Paulo Grand Prix,sainz,williams,15,0.6730000000000018,18,13
+2025,21,São Paulo Grand Prix,stroll,aston_martin,14,0.5300000000000011,17,16
+2025,21,São Paulo Grand Prix,tsunoda,red_bull,17,1.2000000000000028,11,17
+2025,22,Las Vegas Grand Prix,albon,williams,16,8.286000000000001,20,16
+2025,22,Las Vegas Grand Prix,alonso,aston_martin,7,1.5319999999999965,10,11
+2025,22,Las Vegas Grand Prix,antonelli,mercedes,17,8.379999999999995,7,3
+2025,22,Las Vegas Grand Prix,bearman,haas,14,5.159999999999997,13,10
+2025,22,Las Vegas Grand Prix,bortoleto,sauber,18,8.740000000000009,19,17
+2025,22,Las Vegas Grand Prix,colapinto,alpine,15,5.749000000000009,18,15
+2025,22,Las Vegas Grand Prix,gasly,alpine,10,3.6060000000000088,14,13
+2025,22,Las Vegas Grand Prix,hadjar,rb,8,1.6200000000000043,9,6
+2025,22,Las Vegas Grand Prix,hamilton,ferrari,19,9.180999999999996,17,8
+2025,22,Las Vegas Grand Prix,hulkenberg,sauber,11,4.847000000000008,15,7
+2025,22,Las Vegas Grand Prix,lawson,rb,6,1.128,6,14
+2025,22,Las Vegas Grand Prix,leclerc,ferrari,9,1.9380000000000024,12,4
+2025,22,Las Vegas Grand Prix,max_verstappen,red_bull,2,0.3230000000000075,2,1
+2025,22,Las Vegas Grand Prix,norris,mclaren,1,0.0,1,19
+2025,22,Las Vegas Grand Prix,ocon,haas,13,5.052999999999997,11,9
+2025,22,Las Vegas Grand Prix,piastri,mclaren,5,1.027000000000001,5,20
+2025,22,Las Vegas Grand Prix,russell,mercedes,4,0.8689999999999998,3,2
+2025,22,Las Vegas Grand Prix,sainz,williams,3,0.362000000000009,4,5
+2025,22,Las Vegas Grand Prix,stroll,aston_martin,12,4.915999999999997,16,18
+2025,22,Las Vegas Grand Prix,tsunoda,red_bull,20,8.864000000000004,8,12
+2025,23,Qatar Grand Prix,albon,williams,14,1.2420000000000044,15,11
+2025,23,Qatar Grand Prix,alonso,aston_martin,8,0.8319999999999936,12,7
+2025,23,Qatar Grand Prix,antonelli,mercedes,5,0.4590000000000032,5,5
+2025,23,Qatar Grand Prix,bearman,haas,13,1.051000000000002,11,19
+2025,23,Qatar Grand Prix,bortoleto,sauber,19,1.1470000000000056,20,13
+2025,23,Qatar Grand Prix,colapinto,alpine,20,1.75,19,14
+2025,23,Qatar Grand Prix,gasly,alpine,9,0.9369999999999976,9,16
+2025,23,Qatar Grand Prix,hadjar,rb,6,0.7270000000000039,6,18
+2025,23,Qatar Grand Prix,hamilton,ferrari,17,1.519999999999996,17,12
+2025,23,Qatar Grand Prix,hulkenberg,sauber,11,0.965999999999994,13,20
+2025,23,Qatar Grand Prix,lawson,rb,12,1.0460000000000065,14,9
+2025,23,Qatar Grand Prix,leclerc,ferrari,10,0.9560000000000032,10,8
+2025,23,Qatar Grand Prix,max_verstappen,red_bull,3,0.2639999999999958,2,1
+2025,23,Qatar Grand Prix,norris,mclaren,2,0.108000000000004,4,4
+2025,23,Qatar Grand Prix,ocon,haas,16,1.477000000000004,16,15
+2025,23,Qatar Grand Prix,piastri,mclaren,1,0.0,3,2
+2025,23,Qatar Grand Prix,russell,mercedes,4,0.2750000000000057,1,6
+2025,23,Qatar Grand Prix,sainz,williams,7,0.8640000000000043,7,3
+2025,23,Qatar Grand Prix,stroll,aston_martin,18,1.6710000000000065,18,17
+2025,23,Qatar Grand Prix,tsunoda,red_bull,15,1.3739999999999952,8,10
+2025,24,Abu Dhabi Grand Prix,albon,williams,17,1.2090000000000032,14,16
+2025,24,Abu Dhabi Grand Prix,alonso,aston_martin,6,0.6540000000000106,8,6
+2025,24,Abu Dhabi Grand Prix,antonelli,mercedes,14,0.6870000000000118,7,15
+2025,24,Abu Dhabi Grand Prix,bearman,haas,11,0.8340000000000032,13,12
+2025,24,Abu Dhabi Grand Prix,bortoleto,sauber,7,0.6670000000000016,9,11
+2025,24,Abu Dhabi Grand Prix,colapinto,alpine,20,1.683000000000007,19,20
+2025,24,Abu Dhabi Grand Prix,gasly,alpine,19,1.26100000000001,20,19
+2025,24,Abu Dhabi Grand Prix,hadjar,rb,9,0.7900000000000063,11,17
+2025,24,Abu Dhabi Grand Prix,hamilton,ferrari,16,1.1870000000000118,17,8
+2025,24,Abu Dhabi Grand Prix,hulkenberg,sauber,18,1.2430000000000092,18,9
+2025,24,Abu Dhabi Grand Prix,lawson,rb,13,0.8700000000000045,15,18
+2025,24,Abu Dhabi Grand Prix,leclerc,ferrari,5,0.5230000000000103,3,4
+2025,24,Abu Dhabi Grand Prix,max_verstappen,red_bull,1,0.0,1,1
+2025,24,Abu Dhabi Grand Prix,norris,mclaren,2,0.2010000000000076,4,3
+2025,24,Abu Dhabi Grand Prix,ocon,haas,8,0.7060000000000031,10,7
+2025,24,Abu Dhabi Grand Prix,piastri,mclaren,3,0.2300000000000039,5,2
+2025,24,Abu Dhabi Grand Prix,russell,mercedes,4,0.4380000000000024,2,5
+2025,24,Abu Dhabi Grand Prix,sainz,williams,12,0.835000000000008,12,13
+2025,24,Abu Dhabi Grand Prix,stroll,aston_martin,15,0.8900000000000006,16,10
+2025,24,Abu Dhabi Grand Prix,tsunoda,red_bull,10,0.8270000000000124,6,14
+
