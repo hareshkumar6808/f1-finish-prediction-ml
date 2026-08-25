@@ -85,10 +85,3 @@ each completed round. Availability and upstream API behavior can change.
 - The 2026 regulation reset would require drift-aware retraining and evaluation.
 - This is an educational project, not a betting or decision system.
 
-## Next experiments
-
-- Separate DNF classification from pace prediction
-- Practice long-run pace and tyre-degradation features
-- Weather and grid-penalty information available before the start
-- Walk-forward evaluation across multiple seasons
-- A ranking-specific or probabilistic simulation model
